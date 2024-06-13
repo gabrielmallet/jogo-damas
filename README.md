@@ -1,10 +1,10 @@
-# jogo-damas
+# Jogo de Damas
 
-----------------------------------------------------------------------------Sobre o Jogo------------------------------------------------------------------------------------
+## Sobre o Jogo
 
-Este foi um jogo de damas feito como prova final na matéria de POO, usando uma engine criada pelo professor exclusivamente para testar nossa aprendizagem na matéria. O jogo levou 3 semanas para ser feito e no estado atual está completamente jogável.
+Este foi um jogo de damas feito como prova final na matéria de POO, usando uma engine criada pelo professor exclusivamente para testar nossa aprendizagem na matéria. O jogo levou 3 semanas para ser feito e, no estado atual, está completamente jogável.
 
----------------------------------------------------------------------------Regras do Jogo----------------------------------------------------------------------------------
+## Regras do Jogo
 
 As regras deste jogo de damas funcionam basicamente como um jogo de damas comum, com algumas exceções:
 
@@ -12,7 +12,8 @@ As regras deste jogo de damas funcionam basicamente como um jogo de damas comum,
 - Uma peça pode se mover apenas uma casa, porém, neste jogo é permitido mover-se para trás.
 - O jogador pode comer apenas uma peça por vez, mesmo que seja possível comer uma próxima.
 - Neste jogo, mesmo que você chegue na ponta do tabuleiro inimigo, não é possível transformar uma peça em Rainha.
----------------------------------------------------------------------------Sobre o Autor------------------------------------------------------------------------------------
+
+## Sobre o Autor
 
 Olá, meu nome é Gabriel Mallet e eu curso Ciências da Computação na faculdade Anhanguera.
 
